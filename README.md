@@ -80,5 +80,5 @@ tap start bat
 
 ## License
 
-[MIT](https://github.com/akbarrdev/gtps-wa-bot/LICENSE.md)
+[MIT](https://github.com/akbarrdev/gtps-wa-bot/LICENSE)
 
